@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from rango.models import Category
+from rango.models import Category,Page
 
 from django.http import HttpResponse
 
